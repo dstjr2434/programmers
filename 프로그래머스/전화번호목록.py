@@ -21,3 +21,5 @@ def solution(phone_book):
     return answer
 
 print(solution(  ["119", "97674223", "1195524421"]  ))
+
+print(123)
