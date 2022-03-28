@@ -25,7 +25,5 @@ def solution(answers):
             max=num
         elif max==num and max!=0:
             answer.append(idx)
-    
-    
-                                                
+                                             
     return answer
