@@ -77,7 +77,7 @@ def solution(n, lost, reserve):
             _lost.remove(f)
         elif b in _lost:
             _lost.remove(b)
-        # 전체 인원에서 lost에 남아있는 인원수만큼 빼준값을 리턴해준다.
+        # 전체 인원에서 lost에 남아있는 인원수만큼 빼준값을 리턴해준다..
     return n - len(_lost)
 
 print(solution(5,[2,3,4],[3,4,5] ))
