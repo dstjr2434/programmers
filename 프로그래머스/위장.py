@@ -66,3 +66,5 @@ def solution(clothes):
 clothes=[["yellowhat", "headgear"], ["bluesunglasses", "eyewear"], ["green_turban", "headgear"]]
 clothes=[["crowmask", "face"], ["bluesunglasses", "face"], ["smoky_makeup", "face"]]
 print(solution(clothes)) 
+
+# reduce(집계 함수, 순회 가능한 데이터[, 초기값])
