@@ -4,6 +4,10 @@
 # # 배열을 i-2번째에 있는 값을 토대로 배열을 정렬한다.
 # arr.sort(key=lambda x: x[2])
 # arr.sort(key=)
+# key라는 등호뒤에 있는 기준으로 arr를 정렬하겟다.
+# 등호뒤에 있는 기준은 다음과 같다. lambda x: x[2]
+# arr.sort()->오름차순
+
 # key= 등호 뒤에있는것을 기준으로 나누겠다. 
 
 # print(arr)
